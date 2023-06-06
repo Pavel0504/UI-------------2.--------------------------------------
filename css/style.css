@@ -21,7 +21,7 @@
 }
 
 .products-grid {
-	grid-column: 4 span;
+	grid-column: 3 span;
 	display: grid;
 	grid-gap: var(--gutter);
 	grid-template-columns: repeat(4, 1fr);
